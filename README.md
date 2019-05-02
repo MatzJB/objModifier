@@ -1,2 +1,2 @@
 # objModifier
-Simply library for modifying obj files
+Simple OBJ format manipulation tool set.
